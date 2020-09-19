@@ -66,6 +66,23 @@ ga1909
 			- findTop3Sent
 			- sentenceCombiner
 		
-relative paths		
+relative paths
+
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin "https://github.com/saz2nitk/ga1909.git"
+git push origin master
+
+Set your user name:
+git config --global user.name "FIRST_NAME LAST_NAME"
+Set your email address:
+git config --global user.email "MY_NAME@example.com"
+	
 		
-		
+git add .
+git remote add origin "https://github.com/saz2nitk/ga1909.git"
+git push origin master
+
+
