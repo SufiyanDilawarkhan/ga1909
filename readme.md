@@ -84,5 +84,30 @@ git config --global user.email "MY_NAME@example.com"
 git add .
 git remote add origin "https://github.com/saz2nitk/ga1909.git"
 git push origin master
+git remote add origin "https://github.com/SufiyanDilawarkhan/ga1909.git"
 
+APIs
+SOAP - little outdated, used where DotNet is used
+REST - very popular, most important reason
+ - fundamental priciple of databases (db)
+ 
+CRUD
+C - Create
+R - Read
+U - Update
+D - Delete
 
+REST
+GET - Read
+PUT - Update
+POST - Create
+DELETE - Delete
+HEAD
+
+Framework
+Python
+
+Flask - Most popular
+Django - popular
+Bottle - One page design
+FastAPI - New
