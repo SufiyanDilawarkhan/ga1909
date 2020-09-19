@@ -10,7 +10,7 @@ class PreprocessDoc:
     """
     Module for preprocessing articles
     """
-    def removeSpclChar(text):
+    def removeSpclChar(self,text):
         """
         Remove special Characters
         
@@ -19,16 +19,8 @@ class PreprocessDoc:
         Output:
             modifiedText: string
         """
-        pass
+        filteredText = re.sub(',|;|#|$','',text)
+        return filteredText
     
-    def tokenizeArticle():
-        """
-        Tokenize Article
-        
-        Input:
-            
-        """
-        pass
-    
-    def removeStopwords():
-        pass
+    def convertToLower(self,text):
+        return text.lower()
