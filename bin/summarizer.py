@@ -60,4 +60,3 @@ class SummarizeDoc:
         return summary
         
 summarizeObj = SummarizeDoc()
-summarizeObj.loadConfig()
