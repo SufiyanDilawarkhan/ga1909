@@ -72,7 +72,7 @@ relative paths
 git init
 git add .
 git commit -m "first commit"
-git remote add origin "https://github.com/saz2nitk/ga1909.git"
+git remote add origin "https://github.com/SufiyanDilawarkhan/ga1909.git"
 git push origin master
 
 Set your user name:
@@ -82,9 +82,9 @@ git config --global user.email "MY_NAME@example.com"
 	
 		
 git add .
-git remote add origin "https://github.com/saz2nitk/ga1909.git"
+git commit -m "first commit"
 git push origin master
-git remote add origin "https://github.com/SufiyanDilawarkhan/ga1909.git"
+
 
 APIs
 SOAP - little outdated, used where DotNet is used
